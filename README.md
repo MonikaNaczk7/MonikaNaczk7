@@ -69,8 +69,9 @@ My background in professional sports has taught me how to adapt quickly to new c
 I am turning my knowledge into practical projects, which you can find in my repositories.
 
 - <b>SQL</b>
-  - [Hospital Analysis] (https://github.com/MonikaNaczk7/Hospital-Analytics/blob/main/hospital_analytics_answers.sql)
+
   - [Major League Baseball (MLB) Data Analysis](https://github.com/MonikaNaczk7/Major-League-Baseball-Maven-Analytics/blob/main/MLB%20.sql)
+  - [Hospital Analysis](https://github.com/MonikaNaczk7/Hospital-Analytics/blob/main/hospital_analytics_answers.sql)
 
 - <b>Power BI</b>
   - [Good Reads Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjkyZmQwYjgtOTEwZi00Y2MyLWFlMDItOWU4YzMwZDFkMjBjIiwidCI6IjRkYmVlNDdkLWE3MmItNDk5Ny05YzYzLTkyMDg2NjI2NDgwNCJ9)
