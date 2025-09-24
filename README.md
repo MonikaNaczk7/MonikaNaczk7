@@ -82,6 +82,8 @@ I am turning my knowledge into practical projects, which you can find in my repo
 
 - <b>Artificial Intelligence (AI)</b>
   - [AI Agent, Telegram & Google Sheets](https://youtu.be/ymuEdIkdvcE)
+  - [AI-Powered Web Development](https://neural-shine-analytics.lovable.app/)
+
 
 
 ---
