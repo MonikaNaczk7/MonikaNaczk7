@@ -1,97 +1,75 @@
-<h1>Hi, I'm Monika! 👋 <br/><a href="[Link to your GitHub]">Data Analyst</a> 📈</h1>
+<h1>Hi, I'm Monika! 👋</h1>
 
 *"From sport the greatest thing I've learned is the discipline to achieve goals."* - Desmond Green
 
 ---
 
-<h2>🔍 Why Data Analyst?</h2>
-I started playing basketball when I was 10. It's been 20 years since I started, and 10 years as a professional player. In September 2024, I decided to rebrand myself and start developing a new career. I have always been competitive and I like challenges, so my next life goal is to become a DATA ANALYST.
-
-
-     
-Sport taught me a lot about discipline and hard work. That's what got me to one of the best leagues in Europe, in Spain, and it’s also what brought me here, as I find my own way to fill up my portfolio with projects. Thanks to sport, I became 'addicted' to self-development and focusing on details. Working under pressure only makes me more concentrated, and above all… teamwork makes the dream work!
+<h2>🌱 About Me</h2>
+I spent 10 years as a professional basketball player, which taught me discipline, resilience, and teamwork. Since September 2024, I’ve been channeling that same energy into learning and exploring the tech world. I am curious, highly motivated, and eager to take on new challenges across different areas of technology, from coding and data to AI and automation.  
 
 ---
 
-<h2>🧠 Skills & Courses:</h2>
-I am actively developing my skills through various courses and hands-on projects.
+<h2>🧰 Skills & Learning</h2>
 
+I’m actively developing technical and analytical skills through courses, projects, and hands-on experimentation.
 
-  
-**Maven Analytics**
+**Programming & Databases**
+- Rust (currently learning and building projects)
+- SQL (MySQL, PostgreSQL)
+- Python
+  - Data Analysis with Pandas and Python (Udemy – Completed)
+  - Python 3 from Basics to Expert (Udemy – In Progress)
+- TypeScript (basics)
+- Golang (basics)
+- Power BI & Excel
 
+**Artificial Intelligence**
+- Leveraging AI for workflow automation and data analysis
+- Creating AI agents and experimenting with prompt engineering
+- Exploring AI-powered solutions for various tasks
 
-   
-- **MySQL Specialist Learning Path**
-  - Advanced SQL Querying
-  - Advanced MySQL Database Administration
-  - MySQL Database Administration
-  - MySQL Data Analysis
-- **Additional Courses**
-  - Statistics for Data Analysis
-  - Thinking Like an Analyst
-
-**Excel**
-- Microsoft Excel Foundations
-- Excel Formulas & Functions
-- Excel Chart and Graphs
-- Excel Pivot Table & Charts
-
-**UDEMY**
-- PostgreSQL The Complete SQL Bootcamp: Go from Zero to Hero
-- Microsoft Power BI Desktop for Business Intelligence
-
-**Altkom Academy**
-- Microsoft Power BI
-
-**Artificial Intelligence (AI)**
-I am proficient in leveraging AI tools for data-driven insights and workflow automation. I have independently created an AI agent connected to Telegram and have experience with prompt engineering to effectively interact with generative AI models for various analytical tasks.
+**Other Tools & Skills**
+- Git/GitHub
+- Data visualization
+- Problem solving & analytical thinking
 
 **Current Studies**
-- "Future AI Skills" (a 5-week course organized by Google and SGH)
+- "Future AI Skills" (Google & SGH, 5-week course)
 
 ---
 
-<h2>🤝 Soft Skills:</h2>
+<h2>💡 Projects</h2>
+I turn learning into practice through projects across different technologies.
 
-**Analytical Thinking & Problem-Solving**
-My natural curiosity drives me to dissect complex problems and find data-backed solutions.
+**Programming / Rust / SQL**
+- [Hospital Analysis](https://github.com/MonikaNaczk7/Hospital-Analytics/blob/main/hospital_analytics_answers.sql)
+- [Major League Baseball Data](https://github.com/MonikaNaczk7/Major-League-Baseball-Maven-Analytics/blob/main/MLB%20.sql)
 
-**Effective Listening & Communication**
-I excel at listening to stakeholder needs and translating complex data findings into clear, actionable insights.
+**Data Visualization / BI**
+- [Good Reads Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjkyZmQwYjgtOTEwZi00Y2MyLWFlMDItOWU4YzMwZDFkMjBjIiwidCI6IjRkYmVlNDdkLWE3MmItNDk5Ny05YzYzLTkyMDg2NjI2NDgwNCJ9)
+- [Maven Market Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE5NmU0MDgtNjM2OS00Y2ZhLTk3MzMtODVlN2MyMzZiMWIwIiwidCI6IjRkYmVlNDdkLWE3MmItNDk5Ny05YzYzLTkyMDg2NjI2NDgwNCJ9&pageName=ecb5166290a7cb84a965)
 
-**Adaptability & Resilience**
-My background in professional sports has taught me how to adapt quickly to new challenges and maintain focus under pressure.
-
----
-
-<h2>📊 Projects:</h2>
-I am turning my knowledge into practical projects, which you can find in my repositories.
-
-- <b>SQL</b>
-  - [Hospital Analysis](https://github.com/MonikaNaczk7/Hospital-Analytics/blob/main/hospital_analytics_answers.sql)
-  - [Major League Baseball (MLB) Data Analysis](https://github.com/MonikaNaczk7/Major-League-Baseball-Maven-Analytics/blob/main/MLB%20.sql)
-
-- <b>Power BI</b>
-  - [Good Reads Overview Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjkyZmQwYjgtOTEwZi00Y2MyLWFlMDItOWU4YzMwZDFkMjBjIiwidCI6IjRkYmVlNDdkLWE3MmItNDk5Ny05YzYzLTkyMDg2NjI2NDgwNCJ9)
-  - [Maven Market Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTE5NmU0MDgtNjM2OS00Y2ZhLTk3MzMtODVlN2MyMzZiMWIwIiwidCI6IjRkYmVlNDdkLWE3MmItNDk5Ny05YzYzLTkyMDg2NjI2NDgwNCJ9&pageName=ecb5166290a7cb84a965)
-  - [Pixar Movies Overview](https://app.powerbi.com/view?r=eyJrIjoiYWE3OGFkOTMtMWFmYS00YjNkLWFmMjAtNjgzNGViMzg2YTQzIiwidCI6IjRkYmVlNDdkLWE3MmItNDk5Ny05YzYzLTkyMDg2NjI2NDgwNCJ9)
-
-- <b>Excel</b>
-
-
-- <b>Artificial Intelligence (AI)</b>
-  - [AI Agent, Telegram & Google Sheets](https://youtu.be/ymuEdIkdvcE)
-  - [AI-Powered Web Development](https://neural-shine-analytics.lovable.app/)
-
-
+**AI & Automation**
+- [AI Agent, Telegram & Google Sheets](https://youtu.be/ymuEdIkdvcE)
+- [AI-Powered Web Development](https://neural-shine-analytics.lovable.app/)
 
 ---
 
-<h2>🔗 Connect with me:</h2>
+<h2>🤝 Soft Skills & Personal Strengths</h2>
+- Discipline, resilience, and focus from professional sports
+- Curiosity and eagerness to learn new technologies
+- Teamwork and collaboration
+- Problem-solving and analytical thinking
+- Adaptability in fast-moving and challenging environments
+
+---
+
+<h2>🔗 Connect with me</h2>
 
 [<img align="left" alt="MonikaNaczk | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="MonikaNaczk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [github]: https://github.com/monikanaczk
 [linkedin]: https://www.linkedin.com/in/monika-naczk-a650a81aa
+
+
